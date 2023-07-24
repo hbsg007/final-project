@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Landing Page</title>
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="lists.html">Lists</a></li>
+                <!-- Add more pages to the menu as needed -->
+            </ul>
+        </nav>
+    </header>
+    
+    <h1>Welcome to the Landing Page</h1>
+    <img src="assets/landing-image.jpg" alt="Landing Image">
+    
+    <!-- Add your content here -->
+    
+</body>
+</html>
